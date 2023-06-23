@@ -1,2 +1,0 @@
-#!/bin/bash
-set | grep "^[A-Za-z]" & env & declare -F | cut -d ' ' -f3
